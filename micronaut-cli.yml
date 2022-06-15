@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: micronaut
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, email-javamail, gradle, jackson-databind, java, logback, micronaut-build, picocli, picocli-java-application, picocli-spock, readme, shade, spock, yaml]
